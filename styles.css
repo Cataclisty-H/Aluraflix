@@ -1,0 +1,62 @@
+body {
+    color: white;
+    background: black;
+    margin: 0px;
+    font-family: "Chakra Petch", sans-serif;
+    margin-bottom: 100px;
+}
+
+header {
+    border-bottom: solid 2px rgb(42, 122, 228);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(42, 122, 228);
+}
+
+.chamada {
+    background: rgb(184, 156, 213);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 20px;
+}
+
+.categoria-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+.categoria {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
+
+.categoria-videos img {
+    opacity: 0.5;
+    height: 200px;
+}
+
+.categoria-videos img:hover {
+    opacity: 1.0;
+    border: 3px solid green;
+}
+
+.categoria h2 {
+    color: rgb(42, 122, 228);
+}
+
+data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAh1BMVEVHcEziGhrhGRnYGRniGhriGhriFBrlGhrkJRn/vgfrQxXgERriGhr/vwfyVhDiGRr/ugj5agv/wAb/ugj/fgHiGhr/ugjiGhr/ugjiGhr/ugjiGhrwaRH/gAH/gwPiGhr/ugj7tAmLABbjGhqoCRXUcxC3FRbiGhrEVRLwoguiABb/ugj/ughJ83pUAAAALXRSTlMAHpZxUf8TL/93//+k///opf8g//8904FKuPT0CqZ6ytCwRd3//v9f//+6lo17FrOTAAAA1UlEQVR4AW3S0RLBMBCF4dO0FIRoVAEgAO//fJJdF93p/rffTGbPTCDLTCqHWtGjdOwzlroOCPV3h6NxwomKdko408zZOaF2UeXtgrHu4jIiX9R0bOUj8kXrDm4S8kXbzgyf8H/RDjJPuGcspDlGzJSLKk8dMCE8CjyRbYC8R8kZ1AooGftyRmyJGGMhZ8QqAPWW0IgZsfPFXEnERY7MhsBAyRn2FsYtzMQMH+78IOOjPcM+Q4SmBlhNe8brnZegDOFVzNA+747NqZ+3cp/YF60ak8rwA4gZE0Il36PlAAAAAElFTkSuQmCC
